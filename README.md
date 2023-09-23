@@ -4,7 +4,7 @@
 
 ## What was the reason for the incident?
 
-o	The version of code that the URL was connected to was not ready for deployment. This is why it failed in Jenkins the first time. The incorrect version (V2) was used for the url shortener. 
+The version of code that the URL was connected to was not ready for deployment. This is why it failed in Jenkins the first time. The incorrect version (V2) was used for the url shortener. 
 
 ## What counts as an incident?
 
